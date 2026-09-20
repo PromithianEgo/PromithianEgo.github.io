@@ -1,0 +1,34 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  width="64"
+  height="64"
+  role="img"
+  aria-labelledby="title"
+>
+  <title>Product Portfolio</title>
+
+  <rect
+    x="0"
+    y="0"
+    width="64"
+    height="64"
+    fill="#070707"
+  />
+
+  <circle
+    cx="32"
+    cy="32"
+    r="21"
+    fill="none"
+    stroke="#BBA27B"
+    stroke-width="2"
+  />
+
+  <circle
+    cx="32"
+    cy="32"
+    r="4"
+    fill="#BBA27B"
+  />
+</svg>
